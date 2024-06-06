@@ -1,5 +1,5 @@
 footballTeam = "Alhilal"
-x = 10
+x = 1000
 print(type (x))
 
 y = 5.3
