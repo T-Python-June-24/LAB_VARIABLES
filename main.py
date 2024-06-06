@@ -1,4 +1,4 @@
-favourite_team:str = 'Al-Hilal FC'
+favourite_team:str = 'Al-Ahli FC'
 
 x = 11
 y = 2.32
